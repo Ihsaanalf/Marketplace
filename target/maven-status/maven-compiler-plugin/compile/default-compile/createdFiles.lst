@@ -1,0 +1,7 @@
+model\Cart.class
+model\Product.class
+model\Transaction.class
+app\Main.class
+exception\ProductNotFoundException.class
+service\MarketplaceService.class
+exception\OutOfStockException.class
