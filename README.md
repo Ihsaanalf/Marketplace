@@ -33,7 +33,7 @@ Struktur package dan class:
 └── service
     └── MarketplaceService.java 
 </pre>
-<h3>Contoh Penggunaan Fitur Utama</h3>
+<h3>Contoh Penggunaan Fitur Utama & Cara Menjalankan Progam</h3>
 <h4>1. Melihat Daftar Produk</h4>
 <img width="426" height="337" alt="image" src="https://github.com/user-attachments/assets/bac97343-441d-49c0-8d23-85620080e862" />
 <h4>2. Pencarian produk</h4>
