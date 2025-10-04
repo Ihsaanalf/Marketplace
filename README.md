@@ -10,7 +10,7 @@ Marketplace adalah sistem kasir sederhana yang dirancang untuk mensimulasikan pr
 
 Fitur utama meliputi:
 1. Menampilkan daftar produk
-2. Pencarian produk berdasarkan keyword
+2. Pencarian produk
 3. Pembelian produk (menambah ke keranjang)
 4. Melihat isi keranjang
 5. Menghapus produk dari keranjang
@@ -35,11 +35,11 @@ Struktur package dan class:
 <h3>Contoh Penggunaan Fitur Utama</h3>
 <h4>1. Melihat Daftar Produk</h4>
 <img width="426" height="337" alt="image" src="https://github.com/user-attachments/assets/bac97343-441d-49c0-8d23-85620080e862" />
+<h4>2. Pencarian produk</h4>
+<img width="415" height="303" alt="image" src="https://github.com/user-attachments/assets/88a39ab2-040c-4730-ad91-cb1e956b9e9a" />
+<h4>3. Pembelian produk (menambah ke keranjang)</h4>
+<img width="378" height="268" alt="image" src="https://github.com/user-attachments/assets/c464a284-4960-4176-bb27-d06f27c63bc5" />
 
-<h4>2. Melihat Daftar Menu per Kategori</h4>
-<img width="300" height="400" alt="image" src="https://github.com/user-attachments/assets/2ca09e64-de8e-4c16-bb9d-567d7c4352f6" />
-<h4>3. Pencarian Menu</h4>
-<img width="300" height="400" alt="image" src="https://github.com/user-attachments/assets/b2a5a21a-a583-44e6-9acc-901a9fe3d003" />
 <h4>4. Menambah ke Keranjang</h4>
 <img width="180" height="280" alt="image" src="https://github.com/user-attachments/assets/f355ecd7-070d-42b3-8956-0712a7cd5da5" />
 <h4>5. Menghapus dari Keranjang</h4>
