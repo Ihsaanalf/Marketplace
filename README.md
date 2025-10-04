@@ -5,7 +5,7 @@ Aplikasi marketplace sederhana berbasis konsol yang memungkinkan pengguna untuk 
 
 <h3>Penjelasan Marketplace</h3>
 <div align="Justify">
-Marketplace adalah sistem kasir sederhana yang dirancang untuk mensimulasikan proses pembelian produk. Pengguna dapat melihat katalog produk, menambahkan barang ke keranjang berdasarkan ID, menghapus barang dari keranjang, hingga melakukan checkout untuk menyelesaikan transaksi. Sistem juga mencatat riwayat transaksi yang telah dilakukan.
+Marketplace adalah sistem kasir toko sederhana yang dirancang untuk mensimulasikan proses pembelian produk. Pengguna dapat melihat katalog produk, menambahkan barang ke keranjang berdasarkan ID, menghapus barang dari keranjang, hingga melakukan checkout untuk menyelesaikan transaksi. Sistem juga mencatat riwayat transaksi yang telah dilakukan.
 </div>
 
 Fitur utama meliputi:
@@ -16,6 +16,7 @@ Fitur utama meliputi:
 5. Menghapus produk dari keranjang
 6. Checkout dan perhitungan total belanja
 7. Melihat laporan transaksi
+8. Keluar
 
 <h3>Diagram Class</h3>
 Struktur package dan class:
@@ -39,16 +40,15 @@ Struktur package dan class:
 <img width="415" height="303" alt="image" src="https://github.com/user-attachments/assets/88a39ab2-040c-4730-ad91-cb1e956b9e9a" />
 <h4>3. Pembelian produk (menambah ke keranjang)</h4>
 <img width="378" height="268" alt="image" src="https://github.com/user-attachments/assets/c464a284-4960-4176-bb27-d06f27c63bc5" />
-
-<h4>4. Menambah ke Keranjang</h4>
-<img width="180" height="280" alt="image" src="https://github.com/user-attachments/assets/f355ecd7-070d-42b3-8956-0712a7cd5da5" />
-<h4>5. Menghapus dari Keranjang</h4>
-<img width="180" height="280" alt="image" src="https://github.com/user-attachments/assets/ade3552d-f2d7-4bdf-8d5d-8586a91cef93" />
-<h4>6. Melihat Keranjang</h4>
-<img width="300" height="400" alt="image" src="https://github.com/user-attachments/assets/7da752fb-4384-4b07-a597-783195537fbc" />
-<h4>7. Checkout</h4>
-<img width="300" height="400" alt="image" src="https://github.com/user-attachments/assets/f2d21752-4525-4767-8e2e-435fa9720b2f" />
-<h4>0. Keluar</h4>
-<img width="175" height="275" alt="image" src="https://github.com/user-attachments/assets/567a85aa-a22b-41b6-a065-d3b1e3fbfa97" />
+<h4>4. Melihat isi keranjang</h4>
+<img width="400" height="279" alt="image" src="https://github.com/user-attachments/assets/af32e775-c322-472a-88c6-e4dfec08471a" />
+<h4>5. Menghapus produk dari keranjang</h4>
+<img width="466" height="334" alt="image" src="https://github.com/user-attachments/assets/25c50d45-82fe-4260-83a6-0835a07c0eff" />
+<h4>6. Checkout dan perhitungan total belanja</h4>
+<img width="418" height="242" alt="image" src="https://github.com/user-attachments/assets/57513d5a-8e62-4631-aa3b-055320b54331" />
+<h4>7. Melihat laporan transaksi</h4>
+<img width="280" height="282" alt="image" src="https://github.com/user-attachments/assets/f688695a-2260-4339-91a5-c880960c5405" />
+<h4>8. Keluar</h4>
+<img width="426" height="232" alt="image" src="https://github.com/user-attachments/assets/778ad2bf-e9a9-4a6f-ad3d-fa776098a746" />
 <h3>Link video Youtube</h3>
 Link:
