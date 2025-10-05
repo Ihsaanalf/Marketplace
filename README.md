@@ -60,4 +60,4 @@ Struktur package dan class:
 <p>Fitur untuk keluar dari aplikasi. Sistem akan menampilkan pesan terima kasih dan program berhenti berjalan.</p>
 
 <h3>Link video Youtube</h3>
-Link:
+Link: https://youtu.be/xvS2waDg43Q
